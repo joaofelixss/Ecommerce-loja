@@ -53,7 +53,7 @@ const linksList = [
     title: 'Home',
     caption: '',
     icon: 'home',
-    route: 'home'
+    route: { name: 'home' }
   }
 ]
 
